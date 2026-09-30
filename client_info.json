@@ -1,0 +1,242 @@
+{
+  "captured": true,
+  "client": {
+    "capturedAtUnix": 1790524511,
+    "counts": {
+      "descendants": 73468,
+      "guiObjects": 1584,
+      "modules": 29938,
+      "players": 3,
+      "remotes": 82,
+      "scripts": 30299
+    },
+    "device": {
+      "accelerometer": false,
+      "gamepad": false,
+      "gyroscope": false,
+      "keyboard": true,
+      "lastInputType": "Enum.UserInputType.MouseMovement",
+      "mouse": true,
+      "platform": "Enum.Platform.Windows",
+      "touch": false,
+      "vr": false
+    },
+    "display": {
+      "cameraSubject": "Workspace.vinayagafiex53.Humanoid",
+      "cameraType": "Enum.CameraType.Custom",
+      "fieldOfView": 70.00003051757812,
+      "viewport": {
+        "height": 768,
+        "width": 1366
+      }
+    },
+    "executor": {
+      "build": "2.0.0",
+      "name": "Madium",
+      "threadIdentity": 8,
+      "version": "0.740.0.7400927"
+    },
+    "game": {
+      "creatorId": 454007053,
+      "creatorType": "Enum.CreatorType.Group",
+      "dataModelName": "Ugc",
+      "jobId": "91e3f65e-22e2-403d-9f59-f49bc08a266a",
+      "loaded": true,
+      "name": "SIREN HEAD: LEGACY",
+      "placeId": 118734928855510,
+      "placeVersion": 230,
+      "product": {
+        "assetId": 118734928855510,
+        "creator": "Middleways Studio",
+        "creatorId": 454007053,
+        "creatorType": "Group",
+        "isForSale": false,
+        "price": 0
+      },
+      "serverTime": 1790524512.309886,
+      "serverType": "public",
+      "universeId": 10745315844
+    },
+    "localization": {
+      "robloxLocale": "en-us",
+      "systemLocale": "en-in"
+    },
+    "performance": {
+      "fps": 42.00097106246494,
+      "instanceCount": 76351,
+      "memoryMb": 2380.2734375,
+      "physicsFps": 60,
+      "pingMs": 263.89092304900583,
+      "primitivesCount": 18297,
+      "sampledFrames": 15,
+      "sampledSeconds": 0.3571345999998812
+    },
+    "player": {
+      "accountAgeDays": 0,
+      "character": {
+        "health": 100,
+        "maxHealth": 100,
+        "path": "Workspace.vinayagafiex53",
+        "position": {
+          "x": 49.50421524047852,
+          "y": 33.74885559082031,
+          "z": 285.0685119628906
+        },
+        "rigType": "Enum.HumanoidRigType.R6"
+      },
+      "displayName": "vinayagafiex53",
+      "membershipType": "Enum.MembershipType.None",
+      "neutral": true,
+      "userId": 11729656745,
+      "username": "vinayagafiex53"
+    },
+    "streaming": {
+      "enabled": false
+    }
+  },
+  "connection": {
+    "alive": true,
+    "client_info": {
+      "capturedAtUnix": 1790524511,
+      "counts": {
+        "descendants": 73468,
+        "guiObjects": 1584,
+        "modules": 29938,
+        "players": 3,
+        "remotes": 82,
+        "scripts": 30299
+      },
+      "device": {
+        "accelerometer": false,
+        "gamepad": false,
+        "gyroscope": false,
+        "keyboard": true,
+        "lastInputType": "Enum.UserInputType.MouseMovement",
+        "mouse": true,
+        "platform": "Enum.Platform.Windows",
+        "touch": false,
+        "vr": false
+      },
+      "display": {
+        "cameraSubject": "Workspace.vinayagafiex53.Humanoid",
+        "cameraType": "Enum.CameraType.Custom",
+        "fieldOfView": 70.00003051757812,
+        "viewport": {
+          "height": 768,
+          "width": 1366
+        }
+      },
+      "executor": {
+        "build": "2.0.0",
+        "name": "Madium",
+        "threadIdentity": 8,
+        "version": "0.740.0.7400927"
+      },
+      "game": {
+        "creatorId": 454007053,
+        "creatorType": "Enum.CreatorType.Group",
+        "dataModelName": "Ugc",
+        "jobId": "91e3f65e-22e2-403d-9f59-f49bc08a266a",
+        "loaded": true,
+        "name": "SIREN HEAD: LEGACY",
+        "placeId": 118734928855510,
+        "placeVersion": 230,
+        "product": {
+          "assetId": 118734928855510,
+          "creator": "Middleways Studio",
+          "creatorId": 454007053,
+          "creatorType": "Group",
+          "isForSale": false,
+          "price": 0
+        },
+        "serverTime": 1790524512.309886,
+        "serverType": "public",
+        "universeId": 10745315844
+      },
+      "localization": {
+        "robloxLocale": "en-us",
+        "systemLocale": "en-in"
+      },
+      "performance": {
+        "fps": 42.00097106246494,
+        "instanceCount": 76351,
+        "memoryMb": 2380.2734375,
+        "physicsFps": 60,
+        "pingMs": 263.89092304900583,
+        "primitivesCount": 18297,
+        "sampledFrames": 15,
+        "sampledSeconds": 0.3571345999998812
+      },
+      "player": {
+        "accountAgeDays": 0,
+        "character": {
+          "health": 100,
+          "maxHealth": 100,
+          "path": "Workspace.vinayagafiex53",
+          "position": {
+            "x": 49.50421524047852,
+            "y": 33.74885559082031,
+            "z": 285.0685119628906
+          },
+          "rigType": "Enum.HumanoidRigType.R6"
+        },
+        "displayName": "vinayagafiex53",
+        "membershipType": "Enum.MembershipType.None",
+        "neutral": true,
+        "userId": 11729656745,
+        "username": "vinayagafiex53"
+      },
+      "streaming": {
+        "enabled": false
+      }
+    },
+    "connected_at": 1790523777.3294656,
+    "connected_seconds": 734.067929983139,
+    "pid": 1988,
+    "settings": {
+      "AntiAfkEnabled": false,
+      "Decompiler.Formatting.AnnotateCapturedValues": true,
+      "Decompiler.Formatting.AnnotateFunctionNames": true,
+      "Decompiler.Formatting.AnnotateSourceLines": true,
+      "Decompiler.Formatting.AnnotationPlacement": false,
+      "Decompiler.Formatting.ArgumentLayout": false,
+      "Decompiler.Formatting.CaptureDetail": false,
+      "Decompiler.Formatting.ElseIf": false,
+      "Decompiler.Formatting.EmitFunctionAnnotations": true,
+      "Decompiler.Formatting.EndWithNewline": true,
+      "Decompiler.Formatting.IndentSize": false,
+      "Decompiler.Formatting.Indentation": false,
+      "Decompiler.Formatting.MaximumInlineArguments": false,
+      "Decompiler.Formatting.Newlines": false,
+      "Decompiler.Formatting.PreferredLineWidth": false,
+      "Decompiler.Formatting.StringQuotes": false,
+      "Decompiler.Formatting.TableBraces": false,
+      "Decompiler.Formatting.TableLayout": false,
+      "Decompiler.Formatting.TerminateStatements": false,
+      "Decompiler.Formatting.TrailingCommas": false,
+      "Decompiler.Formatting.WrapConditions": false,
+      "Decompiler.Options.AggressiveNames": false,
+      "Decompiler.Options.AlignToOriginalLines": false,
+      "Decompiler.Options.EvaluateStaticStrings": true,
+      "Decompiler.Options.FlattenTerminalBranches": true,
+      "Decompiler.Options.InferDescriptiveLocals": true,
+      "Decompiler.Options.LocalLifetimeScopeThreshold": false,
+      "Decompiler.Options.ModuleSuffix": false,
+      "Decompiler.Options.PreferNamedFunctionSyntax": true,
+      "Decompiler.Options.RecoverCompoundAssignments": true,
+      "Decompiler.Options.RestoreTemplateStrings": true,
+      "Decompiler.Options.RestoreTypeHints": true,
+      "Decompiler.Options.SeparateLogicalSections": true,
+      "Decompiler.Options.UseDebugSymbols": true,
+      "Decompiler.Options.VectorConstructorName": false,
+      "Decompiler.Options.VectorLibraryName": false,
+      "Decompiler.Options.VectorTypeName": false,
+      "InternalUIEnabled": false,
+      "RakNetEnabled": false,
+      "RedirectOutput": true
+    },
+    "transport": "desktop_bridge",
+    "version": "2.0.0"
+  },
+  "sample_seconds": 0.35
+}

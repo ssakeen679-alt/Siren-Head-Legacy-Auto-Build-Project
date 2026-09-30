@@ -1,0 +1,2109 @@
+{
+  "captured": true,
+  "pid": 1988,
+  "queued": true,
+  "result": {
+    "count": 1,
+    "ok": true,
+    "values": [
+      {
+        "entries": [
+          {
+            "key": "items",
+            "value": {
+              "entries": [
+                {
+                  "key": 1,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ModerateChatSettingUpdated"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ModerateChatSettingUpdated"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 2,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ExpChatFeatureValueChanged"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ExpChatFeatureValueChanged"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 3,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "PlatformLeaderboardTabClosed"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.PlatformLeaderboardTabClosed"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 4,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "PlatformLeaderboardTabOpened"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.PlatformLeaderboardTabOpened"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 5,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "PlatformLeaderboardPush"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.PlatformLeaderboardPush"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 6,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "IntegrityCheckProcessorKey2_AutomaticAssetCaptureSender_LocalizationService"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.IntegrityCheckProcessorKey2_AutomaticAssetCaptureSender_LocalizationService"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 7,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 8,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.IntegrityCheckProcessorKey2_TextSafetyAnalyticsSender_LocalizationService"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 9,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 10,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ReferredPlayerJoin"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ReferredPlayerJoin"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 11,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "RequestDeviceCameraOrientationCapability"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 12,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "BuildExperiencePlaytestTeleport"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.BuildExperiencePlaytestTeleport"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 13,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "SetDialogInUse"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.SetDialogInUse"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 14,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ServerSideBulkPurchaseEvent"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ServerSideBulkPurchaseEvent"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 15,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteFunction"
+                      },
+                      {
+                        "key": "name",
+                        "value": "GetServerVersion"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.GetServerVersion"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 16,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteFunction"
+                      },
+                      {
+                        "key": "name",
+                        "value": "GetServerChannel"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.GetServerChannel"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 17,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage.ExperienceChat"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteFunction"
+                      },
+                      {
+                        "key": "name",
+                        "value": "WhisperChat"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ExperienceChat.WhisperChat"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 18,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteFunction"
+                      },
+                      {
+                        "key": "name",
+                        "value": "GetServerType"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.GetServerType"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 19,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "CanChatWith"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.CanChatWith"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 20,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "SetPlayerBlockList"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.SetPlayerBlockList"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 21,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "UpdatePlayerBlockList"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.UpdatePlayerBlockList"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 22,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "NewPlayerGroupDetails"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.NewPlayerGroupDetails"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 23,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "NewPlayerCanManageDetails"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.NewPlayerCanManageDetails"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 24,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "SendPlayerBlockList"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.SendPlayerBlockList"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 25,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "UpdateLocalPlayerBlockList"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.UpdateLocalPlayerBlockList"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 26,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "SendPlayerProfileSettings"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.SendPlayerProfileSettings"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 27,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "RequestPlayerProfileSettings"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.RequestPlayerProfileSettings"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 28,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "UpdatePlayerProfileSettings"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.UpdatePlayerProfileSettings"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 29,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ShowPlayerJoinedFriendsToast"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ShowPlayerJoinedFriendsToast"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 30,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ShowFriendJoinedPlayerToast"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.ShowFriendJoinedPlayerToast"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 31,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "RobloxReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "CreateOrJoinParty"
+                      },
+                      {
+                        "key": "path",
+                        "value": "RobloxReplicatedStorage.CreateOrJoinParty"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 32,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "Shop"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.Shop"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 33,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "morph"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.morph"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 34,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "knockback"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.knockback"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 35,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "delete"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.delete"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 36,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "swing"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.swing"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 37,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "shake"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.shake"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 38,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "upgrade"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.upgrade"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 39,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "grab"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.grab"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 40,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "reload"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.reload"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 41,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "shoot"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.shoot"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 42,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "hit"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.hit"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 43,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "killed"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.killed"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 44,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "long_horse_release"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.long_horse_release"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 45,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "bullet"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.bullet"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 46,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "dream"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.dream"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 47,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "respawn"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.respawn"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 48,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "claim_daily"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.claim_daily"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 49,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "finished_unbox"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.finished_unbox"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 50,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "pounce_hit"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.pounce_hit"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 51,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "save_setting"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.save_setting"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 52,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "pounce"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.pounce"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 53,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "cutscene"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.cutscene"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 54,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "stomp"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.stomp"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 55,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "shoot_fx"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.shoot_fx"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 56,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "slash"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.slash"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 57,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "step"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.step"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 58,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "look_remote"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.look_remote"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 59,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "heal"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.heal"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 60,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "buy_upgrade"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.buy_upgrade"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 61,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "purchase_success"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.purchase_success"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 62,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "invisible_remote"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.invisible_remote"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 63,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "upgrade_survivor"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.upgrade_survivor"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 64,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "stretch"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.stretch"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 65,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "stretch_update"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.stretch_update"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 66,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "create_stretch"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.create_stretch"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 67,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "cancel_stretch"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.cancel_stretch"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 68,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "scream_ability"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.scream_ability"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 69,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "throw"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.throw"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 70,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "going_menu"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.going_menu"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 71,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "pickup"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.pickup"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 72,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "kill_me"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.kill_me"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 73,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "healing_scream"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.healing_scream"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 74,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "build"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.build"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 75,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "megahorn_slash"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.megahorn_slash"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 76,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "megahorn_bite"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.megahorn_bite"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 77,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "megahorn_roar"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.megahorn_roar"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 78,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "megahorn_sonic_wave"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.megahorn_sonic_wave"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 79,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "dash"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.dash"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 80,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "do_vfx"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.do_vfx"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 81,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage.remotes"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "ping"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.remotes.ping"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                },
+                {
+                  "key": 82,
+                  "value": {
+                    "entries": [
+                      {
+                        "key": "parent",
+                        "value": "ReplicatedStorage"
+                      },
+                      {
+                        "key": "class",
+                        "value": "RemoteEvent"
+                      },
+                      {
+                        "key": "name",
+                        "value": "SetLookAngles"
+                      },
+                      {
+                        "key": "path",
+                        "value": "ReplicatedStorage.SetLookAngles"
+                      }
+                    ],
+                    "truncated": false,
+                    "type": "table"
+                  }
+                }
+              ],
+              "truncated": false,
+              "type": "table"
+            }
+          },
+          {
+            "key": "truncated",
+            "value": false
+          },
+          {
+            "key": "count",
+            "value": 82
+          },
+          {
+            "key": "totals",
+            "value": {
+              "entries": [
+                {
+                  "key": "bindableEvents",
+                  "value": 0
+                },
+                {
+                  "key": "bindableFunctions",
+                  "value": 0
+                },
+                {
+                  "key": "remoteFunctions",
+                  "value": 4
+                },
+                {
+                  "key": "remoteEvents",
+                  "value": 78
+                }
+              ],
+              "truncated": false,
+              "type": "table"
+            }
+          }
+        ],
+        "truncated": false,
+        "type": "table"
+      }
+    ]
+  }
+}
